@@ -7,7 +7,6 @@ https://www.codementor.io/@codementorteam/a-comprehensive-guide-to-implementatio
 */
 
 #include <iostream>
-
 using namespace std;
 
 struct node
