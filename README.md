@@ -6,5 +6,9 @@
 
 ### Hash Table
 * [HashTable](https://github.com/csk1116/learn-DS-ALGO/blob/main/HashTables/HashTable.cpp)
+  
+### Stack
+* [Stack-Array](Stack/Stack-ArrayBased.cpp)
+* [stack-LinkedList](Stack/Stack-LinkedListBased.cpp)
 ---
 
