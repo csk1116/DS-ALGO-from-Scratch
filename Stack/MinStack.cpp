@@ -24,7 +24,7 @@ public:
 
 void MinStack::Push(int input)
 {   
-    if(!dataStack.empty() && !minStack.empty() && input > minStack.top())
+    if(!IsEmpty() && input > minStack.top())
         minStack.push(minStack.top());        
     else
         minStack.push(input);
