@@ -79,6 +79,7 @@ int ArrayBasedStack::getSize()
 int main()
 {
     ArrayBasedStack stack;
+    
     stack.Pop();
     stack.Push(1); //1
     stack.Push(3); //3, 1
