@@ -6,7 +6,7 @@ https://medium.com/swlh/why-should-the-length-of-your-hash-table-be-a-prime-numb
 
 As result, using prime is not enough to avoid collision. 
 
-another method using chaning and open adressing to resolve collision is refer to:
+another method using chaning and open addressing to resolve collision is refer to:
 http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html
 */
 #include <iostream>
