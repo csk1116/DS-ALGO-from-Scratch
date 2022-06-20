@@ -1,6 +1,7 @@
 /*
 Implement MinStack with the help of c++ STL stack. There are two stack in the class: data stack & minstack.
 data stack act as a normal stack while minstack is used to track the min value in the stack.
+--- you can use one stack<pair<int, int>> instead. 
 */
 #include <iostream>
 #include <stack>
